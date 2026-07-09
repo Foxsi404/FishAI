@@ -1,10 +1,8 @@
-"""
 FishAI
 
 Copyright (c) 2026 Foxsi
 
 Licensed under the MIT License.
-"""
 
 # Changelog
 
