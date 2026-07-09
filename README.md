@@ -1,3 +1,11 @@
+"""
+FishAI
+
+Copyright (c) 2026 Foxsi
+
+Licensed under the MIT License.
+"""
+
 # FishAI
 
 FishAI is a lightweight artificial intelligence library focused on game development.
